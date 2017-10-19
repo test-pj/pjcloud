@@ -1,0 +1,59 @@
+﻿/*table
+{
+	border: 1px ;
+	border-spacing: 5px ;
+	border-collapse: 10px;
+	
+}*/
+
+
+h2
+{
+	color: green;	
+	font-size: 15;
+	width: 90px;
+	eight: 80%;
+} 
+
+p
+{
+color: blue;
+width: 90%;	
+	
+}
+
+
+titre1
+{
+	   position:absolute;
+   margin-left:50%; /* Centre = 50% de la largeur du conteneur */
+   left:-125px; /* moins la moitié de la largeur du div */
+
+   width:250px; /* Largeur du bloc */
+   height:250px; /* Hauteur du bloc */
+
+   padding:5px; /* Marges intérieures */
+   border: 1px dashed gray; /* Bordures en pointillé, d'un pixel et en gris */
+   font-family:"century gothic";
+   font-size:16px;
+} 
+
+titre
+{
+	color: blue;
+	position:absolute;
+   margin-left:50%; /* Centre = 50% de la largeur du conteneur */
+   left:-125px; /* moins la moitié de la largeur du div */
+
+   width:250px; /* Largeur du bloc */
+   height:250px; /* Hauteur du bloc */
+
+   padding:5px; /* Marges intérieures */
+   border: 1px dashed gray; /* Bordures en pointillé, d'un pixel et en gris */
+   font-family:"century gothic";
+   font-size:16px;
+	
+}
+
+
+.title > td:nth-child(2) > span:nth-child(2)
